@@ -33,4 +33,4 @@ The engine follows a strict validation logic:
 **For Feasibility Studies Only.** This software is a simulation tool intended to guide capacity planning and risk assessment. Final electrical design and implementation must be verified by a certified Professional Engineer (PE) in accordance with local codes (NEC/IEC) and safety standards.
 
 ---
-**Developed by [Your Name]** *Manager & Lead Consultant @ INGEK* *Power Engineering 4.0 Division*
+**Developed by Kelvin Chinchilla ** *Manager & Lead Consultant @ INGEK* *Power Engineering 4.0 Division*
